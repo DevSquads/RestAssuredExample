@@ -6,7 +6,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertEquals;
 
-public class Countries {
+public class ExampleTwoCountriesTest {
 
     private String API_URL = "https://restcountries-v1.p.rapidapi.com/";
     private String API_HOST = "restcountries-v1.p.rapidapi.com";
